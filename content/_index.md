@@ -1,5 +1,5 @@
 +++
-title = "Welcome to the RiOMar workhathon"
+title = "Welcome to the workhathon on DGGS for FAIR2Adapt RiOMar case study"
 slug = "hack4riomar"
 sort_by = "weight"
 +++
