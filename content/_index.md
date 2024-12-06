@@ -1,10 +1,17 @@
 +++
-title = "Welcome to the workhathon on DGGS for FAIR2Adapt RiOMar case study"
+title = "DGGS for FAIR2Adapt case studies"
 slug = "hack4riomar"
 sort_by = "weight"
 +++
 
 ![](https://raw.githubusercontent.com/FAIR2Adapt/Hack4RiOMAR/refs/heads/main/static/logoFAIR2Adapt_with_earth.png)
+
+## Welcome to the Workhathon! 🌍📊
+
+We’re excited to have you here for the DGGS for FAIR2Adapt RiOMar Case Study workhathon! Together, we’ll explore high-resolution RiOMar data, dive into DGGS-powered workflows (with xDGGS + Pangeo 🚀), and lay the groundwork for FAIR, scalable solutions supporting climate adaptation.
+
+Let’s collaborate, innovate, and make an impact! 💡🌱
+
 
 ## Data challenges for the FAIR2Adapt RiOMar Case study 
 
