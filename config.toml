@@ -1,0 +1,26 @@
+# The URL the site will be built for
+base_url = "https://fair2adapt.github.io/Hack4RiOMAR"
+
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "zola-theme-course"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+# Put all your custom variables here
+site_name = "Hack4RiOMAR"
+icon = "/riomar.png"
+icon_desc = "Icon of the RiOMar project"
+description = "Data management for RiOMAR case study"
+default_illus = "illus.png"
+primary_color = "#1DC690"
+accent_color = "#1D6886"
+source_url = "https://github.com/FAIR2Adapt/Hack4RiOMAR"
