@@ -5,6 +5,7 @@ sort_by = "weight"
 +++
 
 ![](/logoFAIR2Adapt_with_earth.png)
+![](/illus.jpg)
 
 ## Data challenges for the FAIR2Adapt RiOMar Case study 
 
