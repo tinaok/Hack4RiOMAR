@@ -17,7 +17,7 @@ highlight_code = false
 [extra]
 # Put all your custom variables here
 site_name = "Hack4RiOMAR"
-icon = "/riomar.png"
+icon = "https://raw.githubusercontent.com/FAIR2Adapt/Hack4RiOMAR/refs/heads/main/static/riomar.png"
 icon_desc = "Icon of the RiOMar project"
 description = "Data management for RiOMAR case study"
 default_illus = "illus.png"
