@@ -4,8 +4,7 @@ slug = "hack4riomar"
 sort_by = "weight"
 +++
 
-![](/logoFAIR2Adapt_with_earth.png)
-![](/illus.jpg)
+![](https://raw.githubusercontent.com/FAIR2Adapt/Hack4RiOMAR/refs/heads/main/static/logoFAIR2Adapt_with_earth.png)
 
 ## Data challenges for the FAIR2Adapt RiOMar Case study 
 
