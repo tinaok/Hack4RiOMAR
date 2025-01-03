@@ -8,7 +8,7 @@ sort_by = "weight"
 
 ## Welcome to the Workhathon! 🌍📊
 
-We’re excited to have you here for the DGGS for FAIR2Adapt RiOMar Case Study workhathon! Together, we’ll explore high-resolution RiOMar data, dive into DGGS-powered workflows (with xDGGS + Pangeo 🚀), and lay the groundwork for FAIR, scalable solutions supporting climate adaptation.
+We’re excited to have you here for the DGGS for FAIR2Adapt RiOMar Case Study workathon! Together, we’ll explore high-resolution RiOMar data, dive into DGGS-powered workflows (with xDGGS + Pangeo 🚀), and lay the groundwork for FAIR, scalable solutions supporting climate adaptation.
 
 Let’s collaborate, innovate, and make an impact! 💡🌱
 
@@ -19,9 +19,9 @@ This case study is led by [IFREMER](http://ifremer.fr) and builds on the outcome
 
 ## About the Workhathon
 
-We are excited to invite a select group of experts to an exclusive workhathon focused on exploring the integration of Discrete Global Grid Systems (DGGS) into future data workflows for the FAIR2Adapt project, using high-resolution RiOMar data. This event will assess how to develop a preprocessing pipeline for publishing datasets into DGGS grids and evaluate how this approach can streamline data co-location and fusion, providing critical support for climate adaptation strategies.
+We are excited to invite a small group of experts to a workathon focused on exploring the integration of Discrete Global Grid Systems (DGGS) into future data workflows for the FAIR2Adapt project, using high-resolution RiOMar data. This event will assess how to develop a preprocessing pipeline for publishing datasets into DGGS grids and evaluate how this approach can streamline data co-location and fusion, providing critical support for climate adaptation strategies.
 
-This workhathon aims to lay the foundation for future efforts in FAIR2Adapt by:
+This workathon aims to lay the foundation for future efforts in FAIR2Adapt by:
 
 - **Deep Dive into DGGS**: Explore the fundamentals and advantages of DGGS for high-resolution spatial data management, with a focus on leveraging [xdggs](https://github.com/xarray-contrib/xdggs) for scalable and efficient analysis.
 - **Assess RiOMar Data**: Examine the RiOMar datasets and associated metadata to evaluate their readiness for DGGS integration and explore how tools within the Pangeo ecosystem can facilitate data access and preprocessing.
@@ -31,15 +31,15 @@ This workhathon aims to lay the foundation for future efforts in FAIR2Adapt by:
 ## Event Details
 
 - Dates: 16-19 January 2025
-- Location: TBD
-- By invitation only. Invitees will receive a detailed agenda and preparation materials.
+- Location: Geilo, Norway
+- By invitation only, with a maximum capacity of 7 participants. Most participants will be from the FAIR2Adapt project, with a few additional experts in DGGS invited to complement our group. Invitees will receive a detailed agenda and preparation materials.
 
 ## Advancing FAIR Workflows for Climate Adaptation
-This workhathon is a unique opportunity to collaborate with peers and contribute to innovative workflows that empower climate resilience. If you’ve received this invitation, we look forward to your insights and expertise.
+This workathon is a unique opportunity to collaborate with peers and contribute to innovative workflows that empower climate resilience. If you’ve received this invitation, we look forward to your insights and expertise.
 
 ## Organizers and Sponsors
 
-This workhackthon is organised by [Simula Research Laboratory](https://www.simula.no) as part of the [FAIR2Adapt project](http://fair2adapt-eosc.eu).
+This workathon is organised by [Simula Research Laboratory](https://www.simula.no) as part of the [FAIR2Adapt project](http://fair2adapt-eosc.eu).
 
 The FAIR2Adapt project has received funding from the European Union’s HORIZON-INFRA-2024-EOSC-01-01 programme under grant agreement No 101188256.
 
