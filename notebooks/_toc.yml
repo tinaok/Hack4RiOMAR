@@ -1,0 +1,27 @@
+format: jb-book
+root: index
+parts:
+  - caption: RiOMar model data
+    chapters:
+    - file: pangeo-riomar_resize_datarmor
+    - file: pangeo-riomar
+    - file: visualize-riomar
+    - file: riomar_plots-datatree_multiresoplot
+    - file: virtualizarr_riomar_kerchunk
+    - file: virtualizarr_riomar_icechunk
+    - file: Riomar_RO
+    - file: NIRD_riomar_RO
+  - caption: NorESM
+    chapters:
+    - file: NorESM-CS1
+    - file: NorESM-regridding
+  - caption: ARGO-KE
+    chapters:
+    - file: pangeo-argo-KE-regridding
+  - caption: odysea
+    chapters:
+    - file: odysea.ipynb
+  - caption: GEBCO
+    chapters:
+    - file: GEBCO_HEALPIX
+    - file: gebco_plots
