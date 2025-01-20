@@ -37,6 +37,10 @@ This workathon aims to lay the foundation for future efforts in FAIR2Adapt by:
 ## Advancing FAIR Workflows for Climate Adaptation
 This workathon is a unique opportunity to collaborate with peers and contribute to innovative workflows that empower climate resilience. If you’ve received this invitation, we look forward to your insights and expertise.
 
+## Hack4RiOMar summary and outcomes
+
+[Check the outcomes of the workathon](notebooks/index.html)
+
 ## Organizers and Sponsors
 
 This workathon is organised by [Simula Research Laboratory](https://www.simula.no) as part of the [FAIR2Adapt project](http://fair2adapt-eosc.eu).
