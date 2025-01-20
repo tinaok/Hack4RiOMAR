@@ -66,7 +66,7 @@ We created 20 Jupyter notebooks. Some are still in progress or contain issues we
 - Github repository with all the notebooks we created: [https://github.com/FAIR2Adapt/Hack4RiOMAR/tree/main/notebooks](https://github.com/FAIR2Adapt/Hack4RiOMAR/tree/main/notebooks)
 - [Check the rendered version (Jupyter Book) of the highlight Jupyter notebooks created during the hackathon](notebooks/index.html)
 
-Check out our [Hack4RiOMar blog]() to learn more about what we did, our successes and challenges, as well as the next steps we identified!
+Check out our [Hack4RiOMar blog](fair2adapt.github.io/Hack4RiOMAR/) to learn more about what we did, our successes and challenges, as well as the next steps we identified!
 
 ## Organizers and Sponsors
 
