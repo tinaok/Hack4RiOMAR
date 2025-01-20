@@ -39,7 +39,34 @@ This workathon is a unique opportunity to collaborate with peers and contribute 
 
 ## Hack4RiOMar summary and outcomes
 
-[Check the outcomes of the workathon](notebooks/index.html)
+*The event was attended in person by six motivated participants, who collaborated to tackle the challenges at hand and advance the FAIR2Adapt RiOMar Case Study. We would like to thank the external experts who joined the hackathon, despite not being part of the FAIR2Adapt project, and attended at their own expense.*
+
+**Participants** (name, organisation, Github username):
+- Even Moa Myklebust, Simula Research Laboratory (Norway), @evenmm 
+- Tina Odaka, IFREMER (France), @tinaok
+- Jean-Marc Delouis, IFREMER (France), @jmdelouis
+- Justus Magin, CNRS-LOPS (France), @keewis
+- Ola Formo Kihle, Independent Consultant / University of Washington Contractor, (Norway), @ofk123
+- Anne Fouilloux, Simula Research Laboratory (Norway), @annefou
+
+### short summary of the Hack4RiOMar workathon
+
+- Successfully aggregated virtual datasets into a single dataset using virtualiZarr, using kerchunk while we still have issues with icechunk.
+- Successfully transformed a sample RiOMar dataset into DGSS (Healpix) grid using different resolutions
+- Tested the use and potential of multiscale Zarr for DGGS-transformed RiOMar datasets.
+- Initiated the process of creating Conda environments on Datarmor, one with cubed and one with dask.
+- Tried out transformation of datasets into DGGS (Healpix grid) to test the robustness of our approach:
+     - Successfully regridded the Argo Kinetic Energy product from Cartesian grid to a discrete global grid system, using xdggs and xarray_healpy.
+     - Completed regridding and exposed the zarr file for Gebco data, with a notebook for plotting the data.
+- Created a RO-Crate for RiOMar data to determine if the minimum required metadata is already available.
+
+
+We created 20 Jupyter notebooks. Some are still in progress or contain issues we have discovered (e.g., these notebooks did not run successfully). 12 notebooks have successfully run, showcasing and explaining the progress and results of each planned task.
+
+- Github repository with all the notebooks we created: [https://github.com/FAIR2Adapt/Hack4RiOMAR/tree/main/notebooks](https://github.com/FAIR2Adapt/Hack4RiOMAR/tree/main/notebooks)
+- [Check the rendered version (Jupyter Book) of the highlight Jupyter notebooks created during the hackathon](notebooks/index.html)
+
+Check out our [Hack4RiOMar blog]() to learn more about what we did, our successes and challenges, as well as the next steps we identified!
 
 ## Organizers and Sponsors
 
