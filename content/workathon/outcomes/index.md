@@ -64,6 +64,6 @@ We created [**20** Jupyter notebooks](https://github.com/FAIR2Adapt/Hack4RiOMAR/
 ### Where to find our work
 
 - Github repository with all the notebooks we created: [https://github.com/FAIR2Adapt/Hack4RiOMAR/tree/main/notebooks](https://github.com/FAIR2Adapt/Hack4RiOMAR/tree/main/notebooks)
-- [The rendered version (Jupyter Book) of the highlight Jupyter notebooks](notebooks/index.html)
-- Check out our [Hack4RiOMar blog](fair2adapt.github.io/Hack4RiOMAR/) to learn more about what we did, our successes and challenges, as well as the next steps we identified!
+- [The rendered version (Jupyter Book) of the highlight Jupyter notebooks](https://fair2adapt.github.io/Hack4RiOMAR/notebooks/index.html)
+- Check out our [Hack4RiOMar blog](https://fair2adapt.github.io/Hack4RiOMAR/workathon/blog/) to learn more about what we did, our successes and challenges, as well as the next steps we identified!
 
