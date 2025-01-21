@@ -22,6 +22,7 @@ The Hack4RiOMar workathon brought together six motivated participants in person,
 | Tina Odaka             | IFREMER (France)                      | @tinaok         |
 | Anne Fouilloux         | Simula Research Laboratory (Norway)   | @annefou        |
 
+In the picture below, you can see the Hack4RiOMar team, listed from left to right: Tina, Even, Anne, Jean-Marc, Justus, and Ola.
 
 ![Picture of all the participants at Geilo during the workathon](Hack4RiOMar_team.png)
 
@@ -33,7 +34,7 @@ We successfully aggregated virtual datasets into a single dataset using Virtuali
 - Develop a [Jupyter notebook showcasing this workflow](https://fair2adapt.github.io/Hack4RiOMAR/notebooks/virtualizarr_riomar_kerchunk.html).
 
 #### Transforming Data into DGGS Grids
-- A sample RiOMar dataset was transformed into a DGGS (Healpix) grid at various resolutions. Check the corresponding Jupyter Notebook [here](https://fair2adapt.github.io/Hack4RiOMAR/notebooks/pangeo-riomar.html)
+- A sample RiOMar dataset was transformed into a DGGS (Healpix) grid at various resolutions. Check the corresponding Jupyter Notebook [here](https://fair2adapt.github.io/Hack4RiOMAR/notebooks/pangeo-riomar.html). In the figure below, you can see the DGGS-transformed RiOMar data (temperature in degrees Celsius).
 ![RiOMar data to DGGS (Healpix)](RiOMar2DGGS.png)
 - To validate the robustness of the procedure, other datasets were transformed to DGGS: 
      - [Jupyter notebook to transform GEBCO Bathymetry data into DGGS (Healpix)](https://fair2adapt.github.io/Hack4RiOMAR/notebooks/GEBCO_HEALPIX.html)
