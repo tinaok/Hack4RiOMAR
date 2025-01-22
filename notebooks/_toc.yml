@@ -18,9 +18,6 @@ parts:
   - caption: ARGO-KE
     chapters:
     - file: pangeo-argo-KE-regridding
-  - caption: odysea
-    chapters:
-    - file: odysea.ipynb
   - caption: GEBCO
     chapters:
     - file: GEBCO_HEALPIX
