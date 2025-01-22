@@ -41,7 +41,6 @@ We successfully aggregated virtual datasets into a single dataset using Virtuali
        The figure below shows the GEBCO Bathymetry data transformed into DGGS:
        ![GEBCO DGGS-transformed visualisation with xdggs and lonboard](GEBCO-healpix-plot.png)
      - [Jupyter notebook to transform Argo Kinetic Energy to DGGS (Healpix)](https://fair2adapt.github.io/Hack4RiOMAR/notebooks/pangeo-argo-KE-regridding.html)
-     - [Jupyter notebook to transform ODYSEA data to DGGS (Healpix)](https://fair2adapt.github.io/Hack4RiOMAR/notebooks/odysea.html)
 - Visualizing transformed data with [xdggs](http://xdggs.readthedocs.io/en/latest/) (based on [lonboard](https://developmentseed.org/lonboard/latest/)).
 
 #### Creating Conda Environments
@@ -51,7 +50,7 @@ To standardize workflows across platforms, we initiated Conda environments on Da
 
 #### Testing Multi-Resolution Zarr Formats
 Multiscale Zarr storage was tested for DGGS-transformed datasets, allowing us to:
-- Explore hierarchical representations of RiOMar (see corresponding [Jupyter Notebook](https://fair2adapt.github.io/Hack4RiOMAR/notebooks/riomar_plots-datatree_multiresoplot.html)) and Odysea data (see [Jupyter notebook](https://github.com/FAIR2Adapt/Hack4RiOMAR/blob/main/notebooks/odyssea_plots-datatree_multiresoplot_works1.ipynb)).
+- Explore hierarchical representations of RiOMar (see corresponding [Jupyter Notebook](https://fair2adapt.github.io/Hack4RiOMAR/notebooks/riomar_plots-datatree_multiresoplot.html)).
 - Identify the potential for improved data accessibility and interoperability.
 
 #### RO-Crate for FAIR Metadata
