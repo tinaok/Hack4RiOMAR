@@ -16,7 +16,7 @@ The Hack4RiOMar workathon brought together six motivated participants in person,
 | Name                   | Organization                            | GitHub Username | ORCID                  |
 |------------------------|----------------------------------------|-----------------|--------------------------
 | Even Moa Myklebust     | Simula Research Laboratory (Norway)   | @evenmm         | [0000-0002-8380-6370](https://orcid.org/0000-0002-8380-6370) |
-| Jean-Marc Delouis      | IFREMER (France)                      | @jmdelouis      | [0000-0002-1784-2920](https://orcid.org/0000-0002-1784-2920) |
+| Jean-Marc Delouis      | IFREMER (France)                      | @jmdelouis      | [0000-0002-0713-1658](https://orcid.org/0000-0002-0713-1658) |
 | Justus Magin           | CNRS-LOPS (France)                    | @keewis         | [0000-0002-4254-8002](https://orcid.org/0000-0002-4254-8002) |
 | Ola Formo Kihle        | Independent Consultant / UW Contractor| @ofk123         | [0000-0001-7294-8990](https://orcid.org/0000-0001-7294-8990) |
 | Tina Odaka             | IFREMER (France)                      | @tinaok         | [0000-0002-1500-0156](https://orcid.org/0000-0002-1500-0156) |
