@@ -8,6 +8,10 @@ sort_by = "weight"
 
 # Welcome to the 1st FAIR2Adapt Case Study Workshop! 
 
+<a href="https://w3id.org/ro-id/a0007726-0f5b-4ccb-a160-f350d669805e">
+        <img alt="rohub" src="https://img.shields.io/badge/RoHub-FAIR_Executable_Research_Object-2ea44f?logo=Open+Access&logoColor=blue">
+</a>
+
 🌍📊 We’re excited to welcome you to the first workshop for the FAIR2Adapt RiOMar Case Study. For this inaugural workshop, the RiOMar community has chosen to focus on understanding the RiOMar data and exploring how to leverage DGGS (Discrete Global Grid System) to enhance data usability for end-users. To make it even more effective, we’ve organized this event as a workathon!
 
 Why a workathon? Because we've invited external experts to collaborate with us and help us maximize the potential of DGGS for the FAIR2Adapt project.
